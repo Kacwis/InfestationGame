@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="379edb4e-fca4-456c-ab2b-fb264df2af4a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectGUI2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProjectGUI2/Cordinates.csv" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProjectGUI2/Cordinates.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProjectGUI2/META-INF/ProjectGUI2.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProjectGUI2/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProjectGUI2/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProjectGUI2/Objects/ActionIn2ndTypeOfCountry.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProjectGUI2/Objects/ActionIn2ndTypeOfCountry.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProjectGUI2/Objects/ActionInCertain3rdTypeOfCountry.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProjectGUI2/Objects/ActionInCertain3rdTypeOfCountry.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProjectGUI2/Objects/ActionInCertainCountry.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProjectGUI2/Objects/ActionInCertainCountry.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProjectGUI2/Objects/ActionsInCertain1stTypeOfCountry.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProjectGUI2/Objects/ActionsInCertain1stTypeOfCountry.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProjectGUI2/Objects/Country.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProjectGUI2/Objects/Country.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProjectGUI2/Objects/Upgrades.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProjectGUI2/Objects/Upgrades.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProjectGUI2/Threads/Clock$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProjectGUI2/Threads/Clock$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProjectGUI2/Threads/Clock.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProjectGUI2/Threads/Clock.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProjectGUI2/Threads/DeathRateInCountry$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProjectGUI2/Threads/DeathRateInCountry$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProjectGUI2/Threads/DeathRateInCountry.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProjectGUI2/Threads/DeathRateInCountry.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProjectGUI2/Threads/GlobalInfestation$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProjectGUI2/Threads/GlobalInfestation$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProjectGUI2/Threads/GlobalInfestation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProjectGUI2/Threads/GlobalInfestation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProjectGUI2/Threads/GlobalResearchForVaccine$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProjectGUI2/Threads/GlobalResearchForVaccine$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProjectGUI2/Threads/GlobalResearchForVaccine$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProjectGUI2/Threads/GlobalResearchForVaccine$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProjectGUI2/Threads/GlobalResearchForVaccine.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProjectGUI2/Threads/GlobalResearchForVaccine.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProjectGUI2/Threads/InfestationInCountry$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProjectGUI2/Threads/InfestationInCountry$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProjectGUI2/Threads/InfestationInCountry.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProjectGUI2/Threads/InfestationInCountry.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProjectGUI2/Threads/ResearchOnVaccine$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProjectGUI2/Threads/ResearchOnVaccine$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProjectGUI2/Threads/ResearchOnVaccine.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProjectGUI2/Threads/ResearchOnVaccine.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProjectGUI2/Threads/TreatmentInCountry$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProjectGUI2/Threads/TreatmentInCountry$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProjectGUI2/Threads/TreatmentInCountry.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProjectGUI2/Threads/TreatmentInCountry.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProjectGUI2/Threads/WorldwideTransporting$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProjectGUI2/Threads/WorldwideTransporting$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProjectGUI2/Threads/WorldwideTransporting.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProjectGUI2/Threads/WorldwideTransporting.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProjectGUI2/Transports/Airlines.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProjectGUI2/Transports/Airlines.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProjectGUI2/Transports/Cargo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProjectGUI2/Transports/Cargo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProjectGUI2/Transports/Cars.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProjectGUI2/Transports/Cars.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProjectGUI2/Transports/Coaches.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProjectGUI2/Transports/Coaches.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProjectGUI2/Transports/Trains.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProjectGUI2/Transports/Trains.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProjectGUI2/Transports/Transport.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProjectGUI2/Transports/Transport.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProjectGUI2/Utilites/Criteria.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProjectGUI2/Utilites/Criteria.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProjectGUI2/Utilites/GlobalStates$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProjectGUI2/Utilites/GlobalStates$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProjectGUI2/Utilites/GlobalStates.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProjectGUI2/Utilites/GlobalStates.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProjectGUI2/View/ButtonOfCountry.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProjectGUI2/View/FrameOfCountry$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProjectGUI2/View/FrameOfCountry$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProjectGUI2/View/FrameOfCountry$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProjectGUI2/View/FrameOfCountry$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProjectGUI2/View/FrameOfCountry.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProjectGUI2/View/FrameOfCountry.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProjectGUI2/View/FrameOfGame.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProjectGUI2/View/FrameOfGame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProjectGUI2/View/GraphicsOfWorld$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProjectGUI2/View/GraphicsOfWorld$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProjectGUI2/View/GraphicsOfWorld.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProjectGUI2/View/GraphicsOfWorld.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProjectGUI2/View/InfoUnderMap$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProjectGUI2/View/InfoUnderMap$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProjectGUI2/View/InfoUnderMap$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProjectGUI2/View/InfoUnderMap$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProjectGUI2/View/InfoUnderMap$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProjectGUI2/View/InfoUnderMap$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProjectGUI2/View/InfoUnderMap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProjectGUI2/View/InfoUnderMap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProjectGUI2/View/MyJPanel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProjectGUI2/View/MyJPanel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProjectGUI2/View/TableInternalFrame$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProjectGUI2/View/TableInternalFrame.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProjectGUI2/View/TableInternalFrame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProjectGUI2/View/UpgradesInternalFrame$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProjectGUI2/View/UpgradesInternalFrame$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProjectGUI2/View/UpgradesInternalFrame$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProjectGUI2/View/UpgradesInternalFrame$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProjectGUI2/View/UpgradesInternalFrame$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProjectGUI2/View/UpgradesInternalFrame$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProjectGUI2/View/UpgradesInternalFrame$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProjectGUI2/View/UpgradesInternalFrame$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProjectGUI2/View/UpgradesInternalFrame.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProjectGUI2/View/UpgradesInternalFrame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProjectGUI2/countriesCodes.csv" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProjectGUI2/countriesCodes.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/populacja.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Cordinates.csv" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cordinates.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Objects/ActionInCertainCountry.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Objects/ActionInCertainCountry.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Objects/Country.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Objects/Country.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Objects/Upgrades.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Objects/Upgrades.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Threads/Clock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Threads/Clock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Threads/DeathRateInCountry.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Threads/DeathRateInCountry.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Threads/GlobalInfestation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Threads/GlobalInfestation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Threads/GlobalResearchForVaccine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Threads/GlobalResearchForVaccine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Threads/InfestationInCountry.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Threads/InfestationInCountry.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Threads/ResearchOnVaccine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Threads/ResearchOnVaccine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Threads/TreatmentInCountry.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Threads/TreatmentInCountry.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Threads/WorldwideTransporting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Threads/WorldwideTransporting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Utilites/GlobalStates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Utilites/GlobalStates.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/View/ButtonOfCountry.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/View/FrameOfCountry.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/View/FrameOfCountry.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/View/FrameOfGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/View/FrameOfGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/View/GraphicsOfWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/View/GraphicsOfWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/View/InfoUnderMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/View/InfoUnderMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/View/TableInternalFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/View/TableInternalFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/View/UpgradesInternalFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/View/UpgradesInternalFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/countriesCodes.csv" beforeDir="false" afterPath="$PROJECT_DIR$/src/countriesCodes.csv" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1bfkYB3yyKYyUwSP3uO9T2FNu1t" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\GitHub\ProjectGUI2\src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\GitHub\ProjectGUI2\src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="ProjectGUI2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="379edb4e-fca4-456c-ab2b-fb264df2af4a" name="Default Changelist" comment="" />
+      <created>1589030580475</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589030580475</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
