@@ -20,6 +20,7 @@ public class Country implements Comparable<Country> {
     public long population;
     double x;
     double y;
+
     public long infectedPopulation;
     ActionInCertainCountry actionInCertainCountry;
     public InfestationInCountry infestationInCountry;

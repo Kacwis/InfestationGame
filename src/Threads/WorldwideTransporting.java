@@ -247,7 +247,7 @@ public class WorldwideTransporting {
     }
 
 
-    private int quantityOfInfectedPeople(Country country, int capacityOfVechiclePerDay){
+    public int quantityOfInfectedPeople(Country country, int capacityOfVechiclePerDay){
         int result = 0;
         if(country.getInfectedPopulation() > 20000)
             result = (int)(capacityOfVechiclePerDay * 0.00005);

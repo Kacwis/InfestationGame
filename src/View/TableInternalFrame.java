@@ -16,7 +16,6 @@ import java.util.Vector;
 public class TableInternalFrame extends JFrame {
 
     DefaultTableModel allData;
-    DefaultTableColumnModel sections = new DefaultTableColumnModel();
     List<Country> allCountries = new ArrayList<>(GlobalStates.INSTANCE.getSortedMapOfcountries().values());
     JTable tableOfAllCountries = new JTable();
 
